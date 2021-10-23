@@ -16,7 +16,7 @@ public class execricio01 {
 
         System.out.println("\n");
 
-        IntStream.range(0,3).forEach (n-> {
+        IntStream.range(4,10).forEach (n-> {
 
             System.out.println("Numero = "+n+"\n");
 

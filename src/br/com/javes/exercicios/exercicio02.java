@@ -59,7 +59,7 @@ public class exercicio02 {
 
         System.out.println("\n " +gen+" " +nome+ " você tem "+idade+ "anos de idade, é do sexo "+osexo+ ", tem a altura\n " +
                 "de "+h+ " metros, e o seu peso ideal é de aproximadamente "+pesoIdeal+ " kilos, sendo assim temos que\n" +
-                " afirmar que" +respGorMag);
+                " afirmar que " +respGorMag);
 
         System.out.println("\n FIM DO PROGRAMA!!!");
 

@@ -1,4 +1,4 @@
-package br.com.javes;
+package br.com.javes.inicial;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package br.com.javes;
+package br.com.javes.repetidores;
 
 public class If {
 
