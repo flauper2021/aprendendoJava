@@ -1,4 +1,4 @@
-package br.com.javes.estruturaDeDados.refatorandoNo;
+package br.com.javes.estruturaDeDados.encadeamentoeNo.refatorandoNo;
 
 public class Main {
 
