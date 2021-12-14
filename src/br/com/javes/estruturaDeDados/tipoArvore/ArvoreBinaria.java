@@ -79,7 +79,7 @@ public class ArvoreBinaria < T  extends Comparable <T>>{
 
     // Implementação do METODO REMOVE
 
-    public void remove(T conteudo){
+    public void remove(int conteudo){
 
        try {
             BinNo<T> atual = this.raiz;
